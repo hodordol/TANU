@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA4Cc319b5C6551cFb6C42fF21FE3C29708731292",
+  "SCAN_LINK": "https://polygonscan.com/address/0xA4Cc319b5C6551cFb6C42fF21FE3C29708731292",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "TANU",
+  "SYMBOL": "TANU",
+  "MAX_SUPPLY": 250,
+  "WEI_COST": 79000000000000000000,
+  "DISPLAY_COST": 79,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/tanuproject",
+  "SHOW_BACKGROUND": true
+}
